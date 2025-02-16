@@ -14,7 +14,7 @@ https://nim-lang.org
 nim c nimpg.nim
 ```
 
-use **-d:release** option (optional) to make the app faster.
+use **-d:release** flag (optional) to make the app faster.
 
 ```
 nim c -d:release nimpg.nim
